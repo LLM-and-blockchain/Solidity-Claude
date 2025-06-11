@@ -9,7 +9,7 @@ Promts: [prompts.md](prompts.md)
 
 General Comments: [general_comments.md](general_comments.md)
 
-[Upgraded Contracts](contracts/upgraded/) and [Reports](/Reporting log/)
+[Upgraded Contracts](contracts/upgraded/) and [Reports](</Reporting log/>)
 
 ## Dataset of Legacy Contracts
 
