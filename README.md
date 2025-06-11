@@ -6,8 +6,11 @@ by Andrea Pinna, Gavina Baralla, Giacomo Ibba, Roberto Tonelli.
 University of Cagliari
 
 Promts: [prompts.md](prompts.md)
+
 General Comments: [general_comments.md](general_comments.md)
+
 [Upgraded Contracts](contracts/upgraded/) and [Reports](/Reporting log/)
+
 ## Dataset of Legacy Contracts
 
 | File Name   | Pragma  | Category  | Implementation Notes | Lines of Code | Number of Contracts | Number of Functions |
