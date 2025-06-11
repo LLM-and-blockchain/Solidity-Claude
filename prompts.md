@@ -1,4 +1,4 @@
-# Promts
+# Prompts
 
 ## Upgrading and testing
 
