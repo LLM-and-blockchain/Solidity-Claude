@@ -1,9 +1,12 @@
 # Upgrade of solidity smart contracts via LLM
 
 This repository contains the experimental materials described in 
-"On the Use of LLMs for Upgrading Legacy Smart Contracts: An Initial Study" 
+"On the Use of LLMs for Upgrading Legacy Smart Contracts: An Initial Study" and 
+"Comparative Evaluation of the Use of LLMs for Upgrading Legacy Smart Contracts"
 by Andrea Pinna, Gavina Baralla, Giacomo Ibba, Roberto Tonelli.
 University of Cagliari
+
+
 
 Promts: [prompts.md](prompts.md)
 
