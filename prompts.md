@@ -1,5 +1,9 @@
 # Prompts
 
+## Avoid agenting behavior (Not used for Claude Sonnet 3.7)
+
+You do not have access to the user's local environment. Do not execute code, run commands, install packages, or compile or test the contracts yourself. Provide the upgraded contract and the test file as downloadable files. Provide documentation or reports only when explicitly requested, as Markdown (.md) files. The user will compile and run them locally and will paste back any compiler or test output. Wait for the next instruction.
+
 ## Upgrading and testing
 
 Upgrade this smart contract written in Solidity to the latest pragma version (0.8.20), ensuring that the function interfaces remain identical.  
